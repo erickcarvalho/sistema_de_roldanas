@@ -1,0 +1,27 @@
+{
+  "name": "ex3_roldanas",
+  "version": "1.0.0",
+  "description": "Sistema de gerenciamento de \"Roldanas\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickcarvalho/sistema_de_roldanas.git"
+  },
+  "keywords": [
+    "Roldanas",
+    "GPs",
+    "e",
+    "muito",
+    "mais",
+    "#Shamaleo"
+  ],
+  "author": "Erickinho do andaraí",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erickcarvalho/sistema_de_roldanas/issues"
+  },
+  "homepage": "https://github.com/erickcarvalho/sistema_de_roldanas#readme"
+}
